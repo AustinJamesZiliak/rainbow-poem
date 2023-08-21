@@ -3,4 +3,7 @@ pink
 purple
 blue
 green
+yellow
+orange
+red
 yup
